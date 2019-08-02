@@ -1,0 +1,12 @@
+com\wd\dao\ClothesDaolmpl.class
+com\wd\web\ShowServelt.class
+com\wd\web\EditServelt.class
+com\wd\web\DeleteServelt.class
+com\wd\dao\ClothesDaolmpl$2.class
+com\wd\web\UpdateServelt.class
+com\wd\bean\Clothes.class
+com\wd\dao\ClothesDaolmpl$1.class
+com\wd\service\ClothesServicelmpl.class
+com\wd\web\AddServelt.class
+com\wd\dao\ClothesDao.class
+com\wd\service\ClothesService.class
